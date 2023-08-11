@@ -12,7 +12,7 @@
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning and exploring Frontend Development.
+
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
