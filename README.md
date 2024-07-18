@@ -18,10 +18,92 @@
 - 📄 Know about my experiences [http://harshada.lovestoblog.com/?i=2](http://harshada.lovestoblog.com/?i=2)
 
 
- # 💻 Language and Tools
- 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <p align="left"> <a href="![image](https://github.com/simran2097/simran2097/assets/47267975/d52ce4ba-a51c-4c07-a17e-47640b7b9051)
-" target="_blank" rel="no-referrer">
+<!---- skills ---->
+## Skills:
+
+#### Programming Languages:
+<span style="margin-right: 15px;">
+	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
+<span style="margin-right: 15px;">
+	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</span>
+
+
+#### Web Scraping, Data Extraction, and Automation:
+
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Scrapy-007396?style=for-the-badge&logo=python&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Playwright-4B32C3?style=for-the-badge&logo=python&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/XPath%20Selector-3498DB?style=for-the-badge">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/CSS%20Selector-2ECC71?style=for-the-badge&logo=css3">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Excel%20Automation-1F425F?style=for-the-badge">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Browser%20Automation-4CAF50?style=for-the-badge">
+</span>
+
+
+
+#### Web Technologies:
+<span style="margin-right: 15px;">
+	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+</span>
+<span style="margin-right: 15px;">
+	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</span>
+
+
+#### Backend:
+
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</span>
+
+
+#### Tools:
+
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</span>
+<!--/skills --->
+
+<br>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simran2097&show_icons=true&locale=en&layout=compact" alt="simran2097" /></p>
