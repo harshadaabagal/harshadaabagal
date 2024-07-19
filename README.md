@@ -36,13 +36,7 @@
     <img src="https://img.shields.io/badge/Scrapy-007396?style=for-the-badge&logo=python&logoColor=white">
 </span>
 <span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Playwright-4B32C3?style=for-the-badge&logo=python&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/XPath%20Selector-3498DB?style=for-the-badge">
 </span>
 <span style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/CSS%20Selector-2ECC71?style=for-the-badge&logo=css3">
@@ -51,7 +45,7 @@
     <img src="https://img.shields.io/badge/Excel%20Automation-1F425F?style=for-the-badge">
 </span>
 <span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Browser%20Automation-4CAF50?style=for-the-badge">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 </span>
 
 
@@ -104,9 +98,4 @@
 <!--/skills --->
 
 <br>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simran2097&show_icons=true&locale=en&layout=compact" alt="simran2097" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simran2097&" alt="simran2097" /></p>
 
