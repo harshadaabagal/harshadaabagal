@@ -8,13 +8,20 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
 
-- 🌱 I’m currently learning **DataBricks and Kafka**.
+- 🌱 I’m currently learning **DataBricks and Kafka**
+
 - 👨🏽‍🎓 Graduate student with a Master's degree in Information Systems.
+
 - 🚀 Expanding Proficiency: Python-Powered ETL, Data Cleaning, and Analysis 📊
+
 - 💬 Unlock Insights with Me: Advanced Excel, Python, SQL, Proficient in Alteryx, EDA, and Storytelling through Visualizations(Tableau, Power BI, and QuickSight)
+
 - 👨‍💻 Portfolio link: [http://harshada.lovestoblog.com/?i=2]
+
 - 👨‍💻 Business Intelligence Solutions on Tableau:(https://public.tableau.com/app/profile/harshada.bagal/vizzes)
+
 - 📫 How to reach me  **bagal.h@northeastern.edu**
+
 - 📄 Know about my experiences [http://harshada.lovestoblog.com/?i=2](http://harshada.lovestoblog.com/?i=2)
 
 
@@ -46,6 +53,12 @@
 </span>
 <span style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+</span>
+<span style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </span>
 
 
