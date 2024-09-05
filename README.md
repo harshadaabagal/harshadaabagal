@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshada Kailas Bagal</h1>
-<h3 align="center">Enthusiastic Data Engineer committed to building scalable data systems and driving insights.</h3>
+<h3 align="center">Enthusiastic Data Engineer committed to building scalable data systems and driving insights</h3>
 
 
 - 👨🏽‍🎓 I am a graduate student at Northeastern University and a Software Engineer.
