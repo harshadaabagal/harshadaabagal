@@ -2,19 +2,22 @@
 <h3 align="center">Enthusiastic Data Engineer committed to building scalable data systems and driving insights.</h3>
 
 
-- I am a graduate student at Northeastern University and a Software Engineer.
-- I have worked as a Data Engineer in GIP (Private Equity) based in New York and as a Software Data Engineer with Aress Softwares in India
-- Exposure to diverse industries such as EHS, Investment Management has deepened my proficiency in data engineering and analytics
-- I am also eager to develop efficient data solutions and scalable systems using modern technologies.
-- Hands-on experience with data engineering and platforms such as SQL, Python, and cloud services like AWS and GCP
-- 💬 Happy to Discuss: **Data engineering, SQL, Databases, Data pipelines, Data infrastructure**
+- 👨🏽‍🎓 I am a graduate student at Northeastern University and a Software Engineer.
+- :office: I have worked as a Data Engineer in GIP (Private Equity) based in New York and as a Software Data Engineer with Aress Softwares
+- :briefcase: Exposure to diverse industries such as EHS, Investment Management has deepened my proficiency in data engineering and analytics
+- :round_pushpin: I am also eager to develop efficient data solutions and scalable systems using modern technologies.
+- 👨‍💻 Hands-on experience with data engineering and platforms such as SQL, Python, and cloud services like AWS and GCP
+
+- 🌱 I’m currently learning DataBricks and Kafka
+- :chart_with_upwards_trend: Business Intelligence Solutions on Tableau: (https://public.tableau.com/app/profile/harshada.bagal/vizzes)
   
 
 
-<h3 align="center"> 🎉 Let's Connect </h3>
+<h3 align="center"> 🚀 Let's Connect </h3>
 I look forward to connecting with tech enthusiasts, future collaborators, and recruiters
 
 - 📫 How to reach me <b>Email: bagalharshada80@gmail.com.</b>
+- 💬 Happy to Discuss: **Data engineering, SQL, Databases, Data pipelines, Data infrastructure**
 
   <br><br>
 <h3 align="center">Other means of connection:</h3>
