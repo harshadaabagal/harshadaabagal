@@ -42,7 +42,10 @@ I look forward to connecting with tech enthusiasts, future collaborators, and re
 	<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="ApacheSpark" alt="ApacheSpark" width="40" height="40"/>&nbsp;
  	<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
- 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLLite" alt="SQLLite" width="40" height="40"/>&nbsp;
+
+
 
 
 	
