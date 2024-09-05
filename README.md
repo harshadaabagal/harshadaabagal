@@ -1,114 +1,50 @@
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<h1 align="center">Hi 👋, I'm Harshada Kailas Bagal</h1>
+<h3 align="center">Enthusiastic Data Engineer committed to building scalable data systems and driving insights.</h3>
+
+
+- I am a graduate student at Northeastern University and a Software Engineer.
+- I have worked as a Data Engineer in GIP (Private Equity) based in New York and as a Software Data Engineer with Aress Softwares in India
+- Exposure to diverse industries such as EHS, Investment Management has deepened my proficiency in data engineering and analytics
+- I am also eager to develop efficient data solutions and scalable systems using modern technologies.
+- Hands-on experience with data engineering and platforms such as SQL, Python, and cloud services like AWS and GCP
+- 💬 Happy to Discuss: **Data engineering, SQL, Databases, Data pipelines, Data infrastructure**
+  
+
+
+<h3 align="center"> 🎉 Let's Connect </h3>
+I look forward to connecting with tech enthusiasts, future collaborators, and recruiters
+
+- 📫 How to reach me <b>Email: bagalharshada80@gmail.com.</b>
+
+  <br><br>
+<h3 align="center">Other means of connection:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/harshadabagal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshadabagal" height="30" width="40" /></a>
 </p>
-
-<h1 align="center">Hi, I'm Harshada! 👋</h1>
-<h3 align="center">Enthusiastic Visual Storyteller| Transforming Complex Data into Compelling Insights</h3>
-
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
-
-
-- 🌱 I’m currently learning **DataBricks and Kafka**
-
-- 👨🏽‍🎓 Graduate student with a Master's degree in Information Systems.
-
-- 🚀 Expanding Proficiency: Python-Powered ETL, Data Cleaning, and Analysis 📊
-
-- 💬 Unlock Insights with Me: Advanced Excel, Python, SQL, Proficient in Alteryx, EDA, and Storytelling through Visualizations(Tableau, Power BI, and QuickSight)
-
-- 👨‍💻 Portfolio link: [http://harshada.lovestoblog.com/?i=2]
-
-- 👨‍💻 Business Intelligence Solutions on Tableau:(https://public.tableau.com/app/profile/harshada.bagal/vizzes)
-
-- 📫 How to reach me  **bagal.h@northeastern.edu**
-
-- 📄 Know about my experiences [http://harshada.lovestoblog.com/?i=2](http://harshada.lovestoblog.com/?i=2)
-
-
-<!---- skills ---->
-## Skills:
-
-#### Programming Languages:
-<span style="margin-right: 15px;">
-	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</span>
-<span style="margin-right: 15px;">
-	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</span>
+  <br><br>
+<h3 align="center">Languages and Tools that I know:</h3>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Spark" alt="Spark" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apache.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="ApacheAirlow" alt="ApacheAirflow" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="ApacheSpark" alt="ApacheSpark" width="40" height="40"/>&nbsp;
+ 	<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+ 
 
 
-#### Web Scraping, Data Extraction, and Automation:
-
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Scrapy-007396?style=for-the-badge&logo=python&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/CSS%20Selector-2ECC71?style=for-the-badge&logo=css3">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Excel%20Automation-1F425F?style=for-the-badge">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-</span>
-
-
-
-#### Web Technologies:
-<span style="margin-right: 15px;">
-	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</span>
-<span style="margin-right: 15px;">
-	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-</span>
-
-
-#### Backend:
-
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-</span>
-
-
-#### Tools:
-
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</span>
-<span style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</span>
-<!--/skills --->
-
-<br>
-
+	
+</div>
+  <br><br>
