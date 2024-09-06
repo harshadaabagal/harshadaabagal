@@ -3,7 +3,7 @@
 
 
 - 👨🏽‍🎓 I am a graduate student at Northeastern University and a Software Engineer.
-- :office: I have worked as a Data Engineer in GIP (Private Equity) based in New York and as a Software Data Engineer with Aress Softwares
+- :office: I have worked as a Data Engineer Analytics co-op in GIP (Private Equity) based in New York and as a Software Data Engineer with Aress Softwares
 - :briefcase: Exposure to diverse industries such as EHS, Investment Management has deepened my proficiency in data engineering and analytics
 - :round_pushpin: I am also eager to develop efficient data solutions and scalable systems using modern technologies.
 - 👨‍💻 Hands-on experience with data engineering and platforms such as SQL, Python, and cloud services like AWS and GCP
