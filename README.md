@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic Data Engineer committed to building scalable data systems and driving insights</h3>
 
 
-- 👨🏽‍🎓 I am a graduate student at Northeastern University and a Software Engineer.
+- 👨🏽‍🎓 I am a graduate student at Northeastern University and a Data Engineer.
 - :office: I have worked as a Data Engineer Analytics co-op in GIP (Private Equity) based in New York and as a Software Data Engineer with Aress
 - :briefcase: Exposure to diverse industries such as EHS, Investment Management has deepened my proficiency in data engineering and analytics
 - :round_pushpin: I am also eager to develop efficient data solutions and scalable systems using modern technologies.
